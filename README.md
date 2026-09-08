@@ -78,11 +78,13 @@ This automation runs each morning at 7:00 AM and:
 
 
 
-\## Screenshots and Documentation
+## Screenshots and Documentation
 
 
 
-\[View the weather-based sales and staffing case study](docs/weather-based-sales-staffing-case-study.pdf)
+[View the weather-based sales and staffing case study](docs/weather-based-sales-staffing-case-study.pdf)
+
+[View the weather-based sales and staffing case study](docs/weather-based-sales-staffing-case-study.pptx)
 
 
 
