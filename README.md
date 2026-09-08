@@ -86,6 +86,10 @@ This automation runs each morning at 7:00 AM and:
 
 
 
+\[View the weather-based sales and staffing case study](docs/weather-based-sales-staffing-case-study.pptx)
+
+
+
 \## Future Improvements
 
 
@@ -114,9 +118,9 @@ This is a TripleTen portfolio project built with hypothetical business data for 
 
 
 
-Lesley Colon  
+Lesley Colon
 
-AI Automation Specialist  
+AI Automation Specialist
 
 \[LinkedIn](https://www.linkedin.com/in/lesleycolon)
 
